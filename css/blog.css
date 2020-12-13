@@ -1,0 +1,100 @@
+/* ==========================================================================
+   Purple | Multi-Page Bootstrap Product Template - Blog Post
+   ========================================================================== */
+
+/* Typography */
+
+.author {
+  color: #5efc8d;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: lighter;
+  margin: 50px 0;
+}
+/* Jumbotron */
+
+#jumbo .blog-header {
+  position: relative;
+  background: linear-gradient(
+      rgba(147, 149, 211, 0.75),
+      rgba(147, 149, 211, 0.75)
+    ),
+    url("../blog/img/purple_-_blog-header.jpg");
+  background-position: center;
+  background-size: cover;
+  background-color: #9395d3;
+  padding: 250px 250px 100px 0;
+  width: auto;
+}
+#jumbo h1 {
+  color: #5efc8d;
+}
+#jumbo p {
+  color: #ffffff;
+}
+@media (max-width: 801px) {
+  #jumbo .blog-header {
+    padding: 200px 0px;
+    height: 600px;
+  }
+  #intro .display-1 {
+    font-size: 4rem;
+  }
+}
+/* Post */
+
+#post {
+  background: #ffffff;
+  padding: 50px 0;
+}
+#post .row {
+  margin: 50px;
+}
+@media (max-width: 801px) {
+  #post .row {
+    margin: 50px 0px;
+  }
+}
+/* Carousel */
+
+#post .carousel-item {
+  background: linear-gradient(rgba(147, 149, 211, 1), rgba(147, 149, 211, 1));
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 500px;
+  overflow: hidden;
+}
+#post .carousel-item img {
+  opacity: 0.75;
+}
+#post .carousel-caption h5 {
+  color: #9395d3;
+  font-size: 3em;
+  font-weight: 600;
+}
+#post .carousel-caption p {
+  color: #ffffff;
+}
+@media (max-width: 801px) {
+  #post .carousel-item {
+    max-height: 250px;
+  }
+}
+/* Progress Bar */
+
+#nav .progress {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 110%;
+  height: 4px;
+  background: transparent;
+  margin: -6px;
+  overflow: hidden;
+}
+#nav .progress-bar {
+  height: 4px;
+  background: #9395d3;
+  width: 0%;
+}
