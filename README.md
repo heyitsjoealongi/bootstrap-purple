@@ -8,7 +8,7 @@ Code template for you to download, edit, and shape into your product's next feat
 
 ## Preview
 
-[![Purple Preview](https://collectedview.github.io/bootstrap-purple/img/purple_-_multi-page_bootstrap_product_template.jpg)](https://collectedview.github.iobootstrap-purple/)
+[![Purple Preview](https://heyitsjoealongi.github.io/bootstrap-purple/img/purple_-_multi-page_bootstrap_product_template.jpg)](https://heyitsjoealongi.github.iobootstrap-purple/)
 
 ## Contents
 
@@ -29,9 +29,10 @@ Code template for you to download, edit, and shape into your product's next feat
 
 Purple is an efficient framework for launching products and expressing value in the digital space. Integrated blogging examples with dynamic features and extensible components provided by Bootstrap.
 
-- https://collectedview.io
-- https://twitter.com/collectedview
-- https://github.com/collectedview
+- Website: [heyitsjoealongi.com](https://heyitsjoealongi.com/)
+- Twitter: [@heyitsjoealongi](https://twitter.com/heyitsjoealongi/)
+- GitHub: [@heyitsjoealongi](https://github.com/heyitsjoealongi/)
+- LinkedIn: [@heyitsjoealongi](https://www.linkedin.com/in/heyitsjoealongi/)
 
 #### Solution:
 
@@ -61,14 +62,14 @@ This project runs on Bootstrap and jQuery, minifying the existing Bootstrap Java
 
 Bringing your hypertext to the web has never been easier with [GitHub Pages](https://pages.github.com/), you can even configure the deploy to push to your custom domain with [Netlify](https://www.netlify.com/) which will provide you with configuration tools, a free SSL certificate, and variations for handling dynamic functions.
 
-- **Option 1.)** [Download the latest version of this template from GitHub](https://github.com/collectedview/bootstrap-purple/archive/master.zip)
+- **Option 1.)** [Download the latest version of this template from GitHub](https://github.com/heyitsjoealongi/bootstrap-purple/archive/master.zip)
 - **Option 2.)** Clone this repository
 
 ```
-                  git clone https://github.com/collectedview/bootstrap-purple.git
+                  git clone https://github.com/heyitsjoealongi/bootstrap-purple.git
 ```
 
-- **Option 3.)** [Fork, Clone, or Download via GitHub Desktop](x-github-client://openRepo/https://github.com/collectedview/bootstrap-purple/)
+- **Option 3.)** [Fork, Clone, or Download via GitHub Desktop](x-github-client://openRepo/https://github.com/heyitsjoealongi/bootstrap-purple/)
 
 #### Basic Usage
 
@@ -82,7 +83,7 @@ The additional theme page in this template is provided for writing blogs or tran
 
 ##### Bugs and Issues
 
-Having an issue with the template? Report bugs & issues with Purple on GitHub via [Issues](https://github.com/collectedview/bootstrap-purple/issues).
+Having an issue with the template? Report bugs & issues with Purple on GitHub via [Issues](https://github.com/heyitsjoealongi/bootstrap-purple/issues).
 
 ##### Acknowledgments
 
@@ -91,4 +92,4 @@ Having an issue with the template? Report bugs & issues with Purple on GitHub vi
 
 ##### License
 
-© 2022 Joe Alongi released via [MIT](https://opensource.org/licenses/MIT) license. Information on this license can be viewed as it applies to this repository on GitHub at [Purple License](https://github.com/collectedview/bootstrap-purple/blob/master/LICENSE).
+© 2022 Joe Alongi released via [MIT](https://opensource.org/licenses/MIT) license. Information on this license can be viewed as it applies to this repository on GitHub at [Purple License](https://github.com/heyitsjoealongi/bootstrap-purple/blob/master/LICENSE).
